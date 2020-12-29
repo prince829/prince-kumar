@@ -1,0 +1,21 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.text-box1{
+    border: 1px solid gray;
+    font-size: 40px;
+    width: 600px;
+    margin-left: 400px;
+    
+}
+li{
+    font-size: 40px;
+    margin-left: 400px;
+
+}
+li:hover{
+    text-decoration: line-through;
+}
